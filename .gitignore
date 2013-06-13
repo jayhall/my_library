@@ -6,3 +6,4 @@
 # Ignore Swaps and similar
 *.swp
 *~
+/target
