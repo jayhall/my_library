@@ -1,0 +1,8 @@
+# Ignore Eclipse related things
+.classpath
+.project
+.settings
+
+# Ignore Swaps and similar
+*.swp
+*~
